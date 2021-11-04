@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Century';
+    src: url('../libs/fonts/subset-Century.woff2') format('woff2'),
+    url('../libs/fonts/subset-Century.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../libs/fonts/subset-CenturyGothic.woff2') format('woff2'),
+    url('../libs/fonts/subset-CenturyGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../libs/fonts/subset-CenturyGothic-Bold.woff2') format('woff2'),
+    url('../libs/fonts/subset-CenturyGothic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../libs/fonts/subset-CenturyGothic-BoldItalic.woff2') format('woff2'),
+    url('../libs/fonts/subset-CenturyGothic-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../libs/fonts/subset-CenturyGothic-Italic.woff2') format('woff2'),
+    url('../libs/fonts/subset-CenturyGothic-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
